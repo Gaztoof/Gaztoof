@@ -22,7 +22,7 @@ private:
 ```
 
 ## Contact
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/gaztoof/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/FeKhAEu3gt)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/768px-YouTube_social_white_square_%282017%29.svg.png" width="3.5%"/>](https://www.youtube.com/channel/UCB7rQNzTsaoS2-I0Z4byUxA)  &nbsp; <a href="mailto:gaztoof@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/gaztoof/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/FeKhAEu3gt)  &nbsp; [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/768px-YouTube_social_white_square_%282017%29.svg.png" width="5.5%"/>](https://www.youtube.com/channel/UCB7rQNzTsaoS2-I0Z4byUxA)  &nbsp; <a href="mailto:gaztoof@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 - [Telegram](https://t.me/Gaztoof)
 - [gaztoof@gmail.com](./) by Mail
 - [@Gaztoof](https://twitter.com/instagram) on YouTube
