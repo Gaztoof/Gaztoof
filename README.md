@@ -21,7 +21,8 @@ public:
 private:
     LPCWSTR Country = L"Belgium🇧🇪";
     LPCSTR discord = NULL;
-};```
+};
+```
 
 ## Contact
 - [Telegram](https://t.me/Gaztoof)
