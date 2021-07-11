@@ -4,6 +4,8 @@ Welcome to my GitHub profile!
 
 I am a full-stack and self-taught developper.
 
+I'm a big fan of Game Hacking, Reverse Engineering, and low level coding.
+
 ```c
 class Gaztoof {
 public:
