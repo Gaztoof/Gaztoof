@@ -26,7 +26,7 @@ private:
 
 ## Contact
 - [Telegram](https://t.me/Gaztoof)
-- [gaztoof@gmail.com](-) by Mail
+- [gaztoof@gmail.com](./) by Mail
 - [@Gaztoof](https://twitter.com/instagram) on YouTube
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaztoof)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaztoof)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
