@@ -4,9 +4,6 @@ Welcome to my GitHub profile!
 
 I am a full-stack and self-taught developper.
 
-I am fluent in C, C++, C#, JavaScript, Java, and Assembly.
-I can also code in Lua, HTML, Python, and a few other!
-
 ```c
 class Gaztoof {
 public:
