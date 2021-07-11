@@ -29,4 +29,4 @@ private:
 - [gaztoof@gmail.com](./) by Mail
 - [@Gaztoof](https://twitter.com/instagram) on YouTube
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaztoof)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaztoof)](https://github.com/anuraghazra/github-readme-stats?show_icons=true&theme=dark)
