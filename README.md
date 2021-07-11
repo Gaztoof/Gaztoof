@@ -1,18 +1,31 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile!
+
+I am a full-stack and self-taught developper.
+
+I am fluent in C, C++, C#, JavaScript, Java, and Assembly.
+I can also code in Lua, HTML, Python, and a few other!
+
+```c
+class Gaztoof {
+public:
+    LPCSTR Name = "Gaztoof";
+    LPCSTR fluentLanguages[6] = {"C", "C++", "C#", "JavaScript", "Java", "Assembly"};
+    LPCSTR languages[6] = {"Lua", "HTML", "Python", "A few other..."};
+    LPCSTR favoriteLanguages[3] = { "C", "C++", "C#" };
+
+    ULONG discordId = 785610260764688415;
+    LPCSTR telegram = "t.me/Gaztoof";
+
+private:
+    LPCWSTR Country = L"Belgium🇧🇪";
+    LPCSTR discord = NULL;
+};```
+
+## Contact
+- [Telegram](https://t.me/Gaztoof)
+- [gaztoof@gmail.com](gaztoof@gmail.com) by Mail
+- [@Gaztoof](https://twitter.com/instagram) on YouTube
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaztoof)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Gaztoof/Gaztoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
