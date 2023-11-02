@@ -10,11 +10,11 @@ I'm a big fan of Game Hacking, Reverse Engineering, and low level coding.
 class Gaztoof {
 public:
     LPCSTR Name = "Gaztoof";
-    LPCSTR fluentLanguages[6] = {"C", "C++", "C#", "JavaScript", "Java", "Assembly"};
-    LPCSTR languages[6] = {"Lua", "HTML", "Python", "A few other..."};
-    LPCSTR favoriteLanguages[3] = { "C", "C++", "C#" };
+    LPCSTR fluentLanguages[6] = {"C", "C++", "C#", "Assembly", "Lua"};
+    LPCSTR languages[6] = {"HTML", "Python", "JavaScript", "Java", "A few other..."};
+    LPCSTR favoriteLanguages[3] = { "C++", "C#", "C" };
 
-    ULONG discordId = 785610260764688415;
+    ULONG discordId = 1038371733985570916;
     LPCSTR telegram = "t.me/Gaztoof";
 
 private:
